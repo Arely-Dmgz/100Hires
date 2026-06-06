@@ -14,3 +14,4 @@ Portafolio project for 100Hires
 * I started writing this file after searching how to upload changes to GitHub.
 ## Complications
 * I couldn't find the README file at first because I am not familiar with Cursor. I am more familiar with GitHub.
+* While updating the file, I discovered that Cursor was not configured with my name and email address, so I had to configure Git before I could continue.
